@@ -1,72 +1,72 @@
 <div align="center">
 
-# 👋 Hi there, I’m **Jaisree**
+# HI THERE, I’M JAISREE
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=20&pause=1000&color=6A5ACD&center=true&vCenter=true&width=500&lines=Data+Analysis+%7C+BI+Analyst+%7C+Product-Minded+Student" />
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkzeDZqaDhhbDg2MXg5enNtY3psbW9sd2lsd3kxd3V0dmV5cGxsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eAFIs0okTH04xLc40y/giphy.gif" width="420" />
+
+<br/>
+
+Data Analysis · Business Intelligence · Product-Curious Student
 
 </div>
 
 ---
 
-### ✨ A little about me
+### Summary
 
-I’m a **sophomore Information Systems student** who enjoys turning raw numbers into stories that actually *mean* something.  
-I work at the intersection of **data, business, and decision-making**, with a growing interest in **analytics-driven product thinking**.
+I’m a sophomore Information Systems student who enjoys extracting clarity from complexity.  
+My work focuses on analyzing financial and operational data to inform decisions, surface inefficiencies, and design systems that scale logically rather than loudly.
 
-I like projects where patterns aren’t obvious at first — the kind that reward curiosity, structure, and a bit of persistence.
+I’m especially drawn to problems where numbers, structure, and human behavior intersect.
 
 ---
 
-### 🎓 Education
+### Education
 
 **The Ohio State University — Fisher College of Business**  
-📍 Columbus, Ohio  
-🗓️ *Bachelor’s in Information Systems*  
-**Aug 2024 – May 2028**  
-🏅 Dean’s List — Spring 2025
+Bachelor of Science in Information Systems  
+Aug 2024 – May 2028  
+
+Dean’s List — Spring 2025
 
 ---
 
-### 🧰 Tools I work with
+### Tools & Technologies
 
-- **Languages:** Python, SQL, Java  
-- **Analytics & BI:** Power BI, Tableau  
-- **Data & Finance:** Excel (advanced formulas, automation, modeling)  
-- **Core Strengths:**  
-  Data modeling · Financial analysis · Dashboard design · Operational insights · Structured problem-solving
+- Python  
+- SQL  
+- Microsoft Excel (advanced modeling & automation)  
+- Power BI  
+- Tableau  
+- Java  
 
----
-
-### 📌 Highlighted Work
-
-- **Uber Booking Analysis & Revenue Insights (Power BI)**  
-  Explored 150K+ records to uncover a 38% lost-booking rate, diagnose cancellation drivers, and visualize revenue and demand patterns across 2025.
-
-- **Express Mover Logistics Cost Model (Excel Automation)**  
-  Built a multi-sheet, formula-driven pricing engine to automate shipment costing and evaluate warehouse expansion financing scenarios.
+Core focus areas:  
+Data modeling · Financial analysis · Performance insights · Dashboard design · Workflow optimization
 
 ---
 
-### 📜 Certifications
+### Selected Projects
 
-- Mathematics for Machine Learning & Data Science — *Coursera*  
-- AI and Public Health — *Coursera*  
+**Uber Booking Analysis & Revenue Insights | Power BI**  
+Analyzed 150K+ booking records to identify a 38% lost-booking rate, uncover cancellation drivers, and visualize revenue and demand trends across 2025 to support operational and revenue strategy.
+
+**Express Mover Logistics Cost Analysis | Excel Automation**  
+Built a multi-sheet financial model integrating multiple datasets to automate logistics pricing, reduce manual calculations, and evaluate warehouse expansion financing scenarios.
+
+---
+
+### Certifications
+
+- Mathematics for Machine Learning & Data Science — Coursera  
+- AI and Public Health — Coursera  
 - Buckeye Wellness Leadership Certificate
 
 ---
 
-### 🔗 Let’s connect
+### Connect
 
-<p align="left">
-  <a href="https://linkedin.com/in/jaisreekolani" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Jaisree%20Kolani-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+LinkedIn: https://linkedin.com/in/jaisreekolani
 
 ---
 
-<div align="center">
-  
-*Learning loudly. Building carefully. Improving relentlessly.*
-
-</div>
+*Learning deliberately. Building thoughtfully. Improving consistently.*
