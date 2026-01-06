@@ -1,8 +1,5 @@
 <div align="center">
-
-# HI THERE, I’M JAISREE
-
-<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkzeDZqaDhhbDg2MXg5enNtY3psbW9sd2lsd3kxd3V0dmV5cGxsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eAFIs0okTH04xLc40y/giphy.gif" width="420" />
+<h1> <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjkzeDZqaDhhbDg2MXg5enNtY3psbW9sd2lsd3kxd3V0dmV5cGxsdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eAFIs0okTH04xLc40y/giphy.gif" width="40" /> HI THERE, I’M JAISREE  </h1>
 
 <br/>
 
@@ -45,16 +42,6 @@ Data modeling · Financial analysis · Performance insights · Dashboard design 
 
 ---
 
-### Selected Projects
-
-**Uber Booking Analysis & Revenue Insights | Power BI**  
-Analyzed 150K+ booking records to identify a 38% lost-booking rate, uncover cancellation drivers, and visualize revenue and demand trends across 2025 to support operational and revenue strategy.
-
-**Express Mover Logistics Cost Analysis | Excel Automation**  
-Built a multi-sheet financial model integrating multiple datasets to automate logistics pricing, reduce manual calculations, and evaluate warehouse expansion financing scenarios.
-
----
-
 ### Certifications
 
 - Mathematics for Machine Learning & Data Science — Coursera  
@@ -67,6 +54,3 @@ Built a multi-sheet financial model integrating multiple datasets to automate lo
 
 LinkedIn: https://linkedin.com/in/jaisreekolani
 
----
-
-*Learning deliberately. Building thoughtfully. Improving consistently.*
